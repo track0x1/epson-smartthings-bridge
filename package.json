@@ -1,0 +1,15 @@
+{
+  "name": "epson-smartthings-bridge",
+  "version": "1.0.0",
+  "description": "An HTTP interface for controlling your Epson Powerlite projector with Samsung SmartThings.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tom Beute <beute.thomas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "usb": "^1.3.1"
+  }
+}

@@ -9,7 +9,7 @@
   "author": "Tom Beute <beute.thomas@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.3.0",
-    "usb": "^1.3.1"
+    "chalk": "^2.4.1",
+    "usb": "^1.4.0"
   }
 }
